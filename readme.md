@@ -22,8 +22,8 @@ consistency between answers, here the node with the smallest number is selected.
 3
 
 Input graph:
-![Screen Shot 2018-12-16 at 18 41 35](https://user-images.githubusercontent.com/36201330/165468833-2e6fd4c3-08e0-4865-a332-a62b4e251472.png)
 
+<img src="https://user-images.githubusercontent.com/36201330/165468833-2e6fd4c3-08e0-4865-a332-a62b4e251472.png" width=400>
 
 5 means that the input matrix has a size of 5x5.
 Then, the following 25 values are read.
